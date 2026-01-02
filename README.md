@@ -68,6 +68,9 @@ Final decisions regarding branding, domain name, and official use will be made a
 Built by Godlove  
 Frontend web developer focused on practical, real-world solutions for small businesses.
 
+let's connect:
+[Facebook: @godybogs](https://www.facebook.com/godyblogs)
+
 ## License
 
 This project is open for learning, reference, and portfolio use.
