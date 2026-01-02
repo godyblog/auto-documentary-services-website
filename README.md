@@ -1,44 +1,73 @@
-# Auto Documentary Services Website
+# OTO Documentary & Office Services Website
 
-This project is a simple, responsive website built for an auto documentary and business service center.  
-It presents services such as printing, photocopying, data entry, passport photos, and document design in a clean and professional layout.
+This project is a simple, responsive website built for **OTO Documentary & Office Services**, a local office and printing business based in Agyati Bafut, Bamenda, Cameroon.
 
-The goal of this project was clarity, speed, and ease of use, especially for users accessing the site on mobile devices.
+The website clearly presents the business services and contact information so customers can easily understand what the business does and how to reach them online.
 
 ## Live Preview
 
+https://auto-documentary-services.netlify.app/
 
+(Will be updated to a custom domain when officially adopted by the business.)
+
+## Purpose of the Project
+
+This website was built primarily as a **practical learning project**.
+
+I created it to apply and test my frontend web development skills using a real business that operates in my local area and where I am directly familiar with the day-to-day services offered.
+
+The goal was to:
+
+- Practice building a complete, real-world website from scratch  
+- Translate an offline business into a clear online presence  
+- Focus on clarity, simplicity, and mobile-first usability  
+- Create something that could realistically be used by the business if approved  
+
+At the same time, the site serves as a simple online reference point where customers can view the business services and contact details.
 
 ## Features
 
-The website is fully responsive and works well on mobile phones and desktops.  
-Navigation is simple and smooth, with a mobile-friendly menu.  
-Service sections are clearly presented using background images and readable text.  
-The layout is clean and focused on helping customers quickly understand what the business offers.
+The website is a single-page layout designed for quick access to information.
+
+It clearly displays:
+- Business name and location  
+- Services offered (printing, photocopying, typing, basic design, passport photos)  
+- Operating hours  
+- Direct WhatsApp contact  
+
+The design is intentionally simple and practical, reflecting how local customers actually search for and use business information online.
 
 ## Built With
 
-HTML for structure.  
-CSS for layout, styling, and responsiveness.  
-Vanilla JavaScript for basic interactivity and dynamic elements.
+- HTML for structure  
+- CSS for layout and responsiveness  
+- Vanilla JavaScript for basic interactivity  
 
-No frameworks. No libraries. Just the basics done properly.
+No frameworks or libraries were used.
 
-## Project Structure
+## Lessons Learned
 
-The project follows a simple and organized structure.  
-HTML is kept in the root directory.  
-CSS, JavaScript, and images are separated inside an assets folder for easy maintenance.
+Building this project reinforced several important lessons:
 
-## Purpose
+- Clear language matters as much as clean code, especially for local businesses  
+- Naming and wording can affect how websites are perceived online  
+- Simple websites are often more effective than complex ones for small businesses  
+- Mobile-first design is essential in environments where most users browse on phones  
+- Real businesses provide better learning experience than imaginary projects  
 
-This project represents a typical small business website that can be deployed quickly and maintained easily.  
-It is suitable for local service businesses that need an online presence without complex systems.
+This project helped bridge the gap between theory and practical, real-world application.
+
+## Status
+
+This website has been deployed for testing and learning purposes.
+
+Final decisions regarding branding, domain name, and official use will be made after presenting the project to the business owner.
 
 ## Author
 
-Built by Godlove.
+Built by Godlove  
+Frontend web developer focused on practical, real-world solutions for small businesses.
 
 ## License
 
-This project is open for learning and personal use.
+This project is open for learning, reference, and portfolio use.
